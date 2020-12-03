@@ -40,8 +40,6 @@ const iotale = {
   <img src="https://raw.githubusercontent.com/iotale/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">-->
   <img src="https://raw.githubusercontent.com/iotale/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/iotale/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/iotale/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/iotale/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_webstorm.svg" alt="tool" style="vertical-align:top; margin:4px">
 </p>
 
 [![Github Stats By iotale](https://github-readme-stats.vercel.app/api?username=iotale&show_icons=true&title_color=fff&icon_color=oc485e&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
