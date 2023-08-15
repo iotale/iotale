@@ -8,6 +8,6 @@
     <br><br>
     I work as a Web :globe_with_meridians: developer!
     <br><br>
-    Better spare at brim than at bottom.
+    临渊羡鱼，不如退而结网！
   </samp>
 </p>
